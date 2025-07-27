@@ -14,7 +14,7 @@ This project is a multi-purpose interactive Power BI dashboard developed for Ken
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - Building multi-functional dashboards tailored to stakeholder needs
 - DAX calculations, measures, and advanced slicers
@@ -23,16 +23,22 @@ This project is a multi-purpose interactive Power BI dashboard developed for Ken
 
 ---
 
-## 🛠️ Tools Used
+## 🛠Tools Used
 
 - Microsoft Power BI  
 - DAX (Data Analysis Expressions)  
-- Data Modeling (Relationships, Star Schema)  
+- Data Modeling (Relationships, Snowflake Schema)  
 - Bookmarks, Slicers, Custom Tooltips  
 
 ---
 
-## 👨‍💻 Developed By
+## 🔗 Live Dashboard
+Check out the live Power BI dashboard here:
+👉 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDc2YzRmMmYtZjYwOC00ODYyLWJmZjYtYTcwNjdiMjZkZGNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
+## Developed By
 
 **Piyush**  
 Aspiring Data Analyst | Excel • SQL • Power BI • Python  
