@@ -34,7 +34,7 @@ This project is a multi-purpose interactive Power BI dashboard developed for Ken
 
 ## 🔗 Live Dashboard
 Check out the live Power BI dashboard here:
-👉 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDc2YzRmMmYtZjYwOC00ODYyLWJmZjYtYTcwNjdiMjZkZGNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+👉 [Live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=10370819-db9c-47b0-9a37-920f265b23f5&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 ---
 
